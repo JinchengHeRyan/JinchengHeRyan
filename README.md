@@ -1,5 +1,9 @@
 ## Homepage: [https://JinchengHeRyan.github.io/](https://JinchengHeRyan.github.io/)
 
+I am an undergraduate student from Duke Kunshan University, currently a research
+assistant [@SMIIP Lab](https://sites.duke.edu/dkusmiip/2019/08/10/welcome/) advised by my research
+mentor [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). My research focuses on target speech separation (TSS).
+
 <a href="https://github-readme-stats.vercel.app/api?username=JinchengHeRyan&count_private=true&show_icons=true&theme=aura_dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JinchengHeRyan&count_private=true&show_icons=true&theme=aura_dark" />
 </a>
