@@ -1,6 +1,8 @@
 ## Homepage: [https://JinchengHeRyan.github.io/](https://JinchengHeRyan.github.io/)
 
-I am an undergraduate student from Duke Kunshan University, currently a research
+I am currently a graduate student pursuing Master’s degree in Electrical and Computer Engineering at Duke University. 
+
+I was an undergraduate student from Duke Kunshan University and Duke University, being a research
 assistant [@SMIIP Lab](https://sites.duke.edu/dkusmiip/2019/08/10/welcome/) advised by my research
 mentor [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). My research focuses on target speech separation (TSS).
 
